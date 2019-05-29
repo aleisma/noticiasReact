@@ -5,7 +5,7 @@ ________________________________________________________________________________
  
 ![Screenshot](screenshot.png)
 
-<p> Captura de la aplicacion NoticiasReact</p>
+(Screeshot de la aplicacion NoticiasReact)
 
 
 
