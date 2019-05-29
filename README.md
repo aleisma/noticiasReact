@@ -5,7 +5,6 @@ ________________________________________________________________________________
  
 ![Screenshot](screenshot.png)
 
-(Screeshot de la aplicacion NoticiasReact)
 
 
 
