@@ -42,7 +42,7 @@ class App extends Component {
             />
 
 
-        <div className="container blue contenedor-noticias">
+        <div className="container light-blue contenedor-noticias">
             <Formulario
               consultarNoticias={this.consultarNoticias}
             />
